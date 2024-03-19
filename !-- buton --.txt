@@ -1,0 +1,16 @@
+<!-- buton -->
+<div class="link-btn" style="margin-top:0px;">
+                    <a href="pdf/Brosur_PLTS-Terpusat_OffGrid_2019.pdf" class="btn-five" target="_blank">
+                        <i class="fa fa-download" aria-hidden="true"></i>
+                        Download
+                    </a>
+                </div>
+
+                <div class="link-btn">
+                    <a href="javascript:history.back()" class="btn-three">
+                        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+                        Halaman Sebelumnya
+                    </a>
+                </div>
+
+<!-- End  -->

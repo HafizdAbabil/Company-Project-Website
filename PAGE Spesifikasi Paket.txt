@@ -1,0 +1,349 @@
+ISI 
+
+<div class="col-lg-6 col-sm-6 col-xs-12" style="margin-top:15px;"> 
+				
+                                    <table width="100%" class="table3" style="border-top: 0px; margin-top: 15px; padding-right: 10px;">
+<td style="vertical-align: bottom;">
+											<h4 class="subtitle3" style="font-size: 120%; color: #000066;">Panel Surya </h4></td>
+                                        <td style="text-align:right; padding: 0px; height: 35px; vertical-align: bottom;">&nbsp;  </td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;"><strong>Capacity</strong></td>
+                                        <td style="text-align:right;"> ><strong> 10 KWp</strong></td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Brand & Type </td>
+                                        <td style="text-align:right;">Various Brand </td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Origin </td>
+                                        <td style="text-align:right;">Indonesia (TKDN) / Tier-1 </td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Efficiency </td>
+                                        <td style="text-align:right;">> 16% </td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Warranty Output</td>
+                                        <td style="text-align:right;">&ge; 12 / 25 years </td>
+                                      </tr>
+                                    </table>
+
+							
+                                    <table width="100%" class="table3" style="border-top: 0px; margin-top: 15px; padding-right: 10px;">
+                                      <tr>
+                                        <td style="vertical-align: bottom;">
+											<h4 class="subtitle3" style="font-size: 120%; color: #000066;">Battery Inverter </h4></td>
+                                        <td style="text-align:right; padding: 0px; height: 35px; vertical-align: bottom;">
+											<a href="produk-inverter-aksesoris-sma.php?p=sma-battery-charger-biderectional-off-grid-inverter-sunny-island-multicluster-box" target="_blank"><img src="images/125-logo-sma.jpg" style="height: 30px;" alt="SMA" title="SMA Solar - Germany"></a>
+                                        </td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;"><strong>Capacity </strong></td>
+                                        <td style="text-align:right;"><strong> &plusmn; 
+                                                                                                                                    12 KW</strong> <sup>1)</sup>
+                                        </td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Brand & Type </td>
+                                        <td style="text-align:right;">SMA Sunny Island </td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Origin </td>
+                                        <td style="text-align:right;">Germany  </td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Efficiency </td>
+                                        <td style="text-align:right;">&ge; 95.5% </td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Warranty </td>
+                                        <td style="text-align:right;">5 years +5 <sup>2)</sup></td>
+                                      </tr>
+                                    </table>
+
+							
+
+															
+								
+                            							
+                                    <table width="100%" class="table3" style="border-top: 0px; padding-right: 10px;">
+                                      <tr>
+                                        <td style="vertical-align: bottom;">
+											<h4 class="subtitle3" style="font-size: 120%; color: #000066;">Solar Inverter </h4></td>
+                                        <td style="text-align:right; padding: 0px; height: 35px;vertical-align: bottom;">
+											<a href="produk-inverter-aksesoris-sma.php?p=sma-solar-pv-on-grid-tie-inverter-sunny-boy-tripower" target="_blank"><img src="images/125-logo-sma.jpg" style="height: 30px;" alt="SMA" title="SMA Solar - Germany"></a>
+                                        </td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;"><strong>Capacity </strong></td>
+                                        <td style="text-align:right;"><strong> &ge; 10 KW</strong></td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Brand & Type </td>
+                                        <td style="text-align:right;">SMA Sunny Boy / Tripower</td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Origin </td>
+                                        <td style="text-align:right;">Germany </td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Efficiency </td>
+                                        <td style="text-align:right;">&ge; 97% </td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Warranty </td>
+                                        <td style="text-align:right;">5 years </td>
+                                      </tr>
+                                    </table>
+							
+                            							
+                                    <table width="100%" class="table3" style="border-top: 0px; margin-top: 15px; padding-right: 10px;">
+                                      <tr>
+                                        <td style="vertical-align: bottom;">
+											<h4 class="subtitle3" style="font-size: 120%; color: #000066;">Baterai  </h4></td>
+                                        <td style="text-align:right; padding: 0px; height: 35px; vertical-align: bottom;">&nbsp;  </td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;"><strong>Capacity </strong></td>
+                                        <td style="text-align:right;"><strong>Based on energy demand </strong> <sup>4)</sup></td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Brand & Type </td>
+                                        <td style="text-align:right;">Various Brand </td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Origin </td>
+                                        <td style="text-align:right;">Indonesia / Other </td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Technology </td>
+                                        <td style="text-align:right;">VRLA OPzV / Lithium <sup>5)</sup> </td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Warranty </td>
+                                        <td style="text-align:right;">3 - 10 years </td>
+                                      </tr>
+                                    </table>
+                        </div>
+                        
+                        <div class="col-lg-6 col-sm-6 col-xs-12" style="padding-right:20px;"> 
+                            
+                                    <table width="100%" class="table3" style="border-top: 0px; margin-top: 15px; padding-right: 10px;">
+                                      <tr>
+                                        <td style="vertical-align: bottom;">
+											<h4 class="subtitle3" style="font-size: 120%; color: #000066;">Monitoring System </h4></td>
+                                        <td style="text-align:right; padding: 0px; height: 35px; vertical-align: bottom;">
+											<a href="produk-inverter-aksesoris-sma.php?p=sma-pv-monitoring-logger-management-data-manager-energy-meter" target="_blank"><img src="images/125-logo-sma.jpg" style="height: 30px;" alt="SMA" title="SMA Solar - Germany"></a>
+                                        </td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Brand & Type </td>
+                                        <td style="text-align:right;"> SMA Data Manager </td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Origin </td>
+                                        <td style="text-align:right;">Germany 
+											</td>
+                                      </tr>
+									  <tr>
+										<td style="padding-right:5px;">Online / Offline Access? </td>
+										<td style="text-align:right;">Yes / Yes</td>
+									  </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Warranty </td>
+                                        <td style="text-align:right;">2 years </td>
+                                      </tr>
+                                    </table>
+							
+                                    <table width="100%" class="table3" style="border-top: 0px; margin-top: 15px; padding-right: 10px;">
+                                      <tr>
+                                        <td style="vertical-align: bottom;">
+											<h4 class="subtitle3" style="font-size: 120%; color: #000066;">PV Mounting </h4></td>
+                                        <td style="text-align:right; padding: 0px; height: 35px; vertical-align: bottom;">
+											<a href="produk-pv-mounting-proteksi-hexasolar.php" target="_blank"><img src="images/125-logo-hexasolar.jpg" style="height: 30px;" alt="Hexasolar" title="Hexasolar"></a>
+										</td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Engineered By </td>
+                                        <td style="text-align:right;">Hexa Solar </td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Mounting Frame </td>
+                                        <td style="text-align:right;">Aluminum </td>
+                                      </tr> 
+                                      <tr>
+                                        <td style="padding-right:5px;">Mounting Pole </td>
+                                        <td style="text-align:right;">HDG </td>
+                                      </tr> 
+                                      <tr>
+                                        <td style="padding-right:5px;">Warranty </td>
+                                        <td style="text-align:right;">1 years </td>
+                                      </tr>
+                                    </table>
+							
+                                    <table width="100%" class="table3" style="border-top: 0px; margin-top: 15px; padding-right: 10px;">
+                                      <tr>
+                                        <td style="vertical-align: bottom;">
+											<h4 class="subtitle3" style="font-size: 120%; color: #000066;">Box Proteksi DC & AC </h4></td>
+                                        <td style="text-align:right; padding: 0px; height: 35px; vertical-align: bottom;">
+											<a href="produk-pv-mounting-proteksi-hexasolar.php" target="_blank"><img src="images/125-logo-hexasolar.jpg" style="height: 30px;" alt="Hexasolar" title="Hexasolar"></a>
+										</td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Engineered By </td>
+                                        <td style="text-align:right;">Hexa Solar </td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Warranty </td>
+                                        <td style="text-align:right;">1 years </td>
+                                      </tr>
+                                    </table>
+							
+                                    <table width="100%" class="table3" style="border-top: 0px; margin-top: 15px; padding-right: 10px;">
+                                      <tr>
+                                        <td style="vertical-align: middle;"><h4 class="subtitle3" style="font-size: 110%; color: #000066;">Kabel DC & AC </h4></td>
+                                        <td style="text-align:right; padding: 0px; height: 35px; vertical-align: bottom;">&nbsp;  </td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Brand </td>
+                                        <td style="text-align:right;">Various Brand </td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:5px;">Origin </td>
+                                        <td style="text-align:right;">Indonesia / Other</td>
+                                      </tr>
+                                    </table>
+							
+                                    <table width="100%" class="table3" style="border-top: 0px; margin-top: 15px; padding-right: 10px;">
+                                      <tr>
+                                        <td style="vertical-align: bottom;">
+											<h4 class="subtitle3" style="font-size: 120%; color: #000066;">Komponen Pendukung </h4></td>
+                                        <td style="text-align:right; padding: 0px; height: 35px; vertical-align: bottom;">&nbsp;  </td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:10px;">Grounding System </td>
+                                        <td>Battery Rack</td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:10px;">Instalasi Power House </td>
+                                        <td>Penangkal Petir</td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-right:10px;">Pagar Pengaman Site  <sup>6)</sup></td>
+                                        <td>Rumah Baterai <sup>6)</sup></td>
+                                      </tr>
+                                    </table>
+							
+                        </div>
+
+					<div class="col-lg-12" style="padding-left: 0px;">
+						<span style="font-size:90%;">Keterangan:<br>
+							1) Kapasitas mungkin berubah untuk menyesuaikan beban puncak atau spesifikasi inverter.<br>
+							2) Dengan registrasi online di web SMA Sunny Portal.<br>
+							3) Dengan registrasi online di web Studer.<br>
+							4) Besar kapasitas baterai dipengaruhi oleh kebutuhan energi harian, depth of discharge (DoD) dan autonomous days.<br>
+							5) Khusus baterai Lithium, Hexamitra hanya menggunakan baterai yang ada dalam Compatibility List SMA atau yang sudah melalui pengujian kompatibilitas. Garansi inverter void jika menggunakan baterai Lithium di luar Compatibility List atau yang direkomendasikan Hexamitra.<br>
+							6) Optional. Direkomendasikan disiapkan oleh owner untuk efisiensi biaya.<br>
+						</span>
+                    </div>
+
+    
+                    
+                   
+
+
+					    
+                </div>  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Template dibawah header dll
+<!-- ======= Percobaan  ======= -->
+<div class="row">
+    <div class="col-lg-6 col-sm-6 col-xs-12" style="margin-top:15px;">
+        <!-- Table 1 - Panel Surya -->
+        <table width="100%" class="table3" style="border-top: 0px; margin-top: 15px; padding-right: 10px;">
+            <!-- ... Isi dari tabel Panel Surya ... -->
+        </table>
+
+        <!-- Table 2 - Battery Inverter -->
+        <table width="100%" class="table3" style="border-top: 0px; margin-top: 15px; padding-right: 10px;">
+            <!-- ... Isi dari tabel Battery Inverter ... -->
+        </table>
+
+        <!-- Table 3 - Solar Inverter -->
+        <table width="100%" class="table3" style="border-top: 0px; margin-top: 15px; padding-right: 10px;">
+            <!-- ... Isi dari tabel Solar Inverter ... -->
+        </table>
+
+        <!-- Table 4 - Baterai -->
+        <table width="100%" class="table3" style="border-top: 0px; margin-top: 15px; padding-right: 10px;">
+            <!-- ... Isi dari tabel Baterai ... -->
+        </table>
+    </div>
+
+    <div class="col-lg-6 col-sm-6 col-xs-12" style="padding-right:20px;">
+        <!-- Table 5 - Monitoring System -->
+        <table width="100%" class="table3" style="border-top: 0px; margin-top: 15px; padding-right: 10px;">
+            <!-- ... Isi dari tabel Monitoring System ... -->
+        </table>
+
+        <!-- Table 6 - PV Mounting -->
+        <table width="100%" class="table3" style="border-top: 0px; margin-top: 15px; padding-right: 10px;">
+            <!-- ... Isi dari tabel PV Mounting ... -->
+        </table>
+
+        <!-- Table 7 - Box Proteksi DC & AC -->
+        <table width="100%" class="table3" style="border-top: 0px; margin-top: 15px; padding-right: 10px;">
+            <!-- ... Isi dari tabel Box Proteksi DC & AC ... -->
+        </table>
+
+        <!-- Table 8 - Kabel DC & AC -->
+        <table width="100%" class="table3" style="border-top: 0px; margin-top: 15px; padding-right: 10px;">
+            <!-- ... Isi dari tabel Kabel DC & AC ... -->
+        </table>
+
+        <!-- Table 9 - Komponen Pendukung -->
+        <table width="100%" class="table3" style="border-top: 0px; margin-top: 15px; padding-right: 10px;">
+            <!-- ... Isi dari tabel Komponen Pendukung ... -->
+        </table>
+    </div>
+</div>
+
+<div class="col-lg-12" style="padding-left: 0px;">
+    <span style="font-size:90%;">Keterangan:<br>
+        <!-- ... Keterangan ... -->
+    </span>
+</div>
+    <!-- ======= Percobaan ======= -->
